@@ -117,6 +117,7 @@
     <Content Include="img\svg\seo-performance-marketing-graphic.svg_hy1562324394499" />
     <Content Include="img\svg\share.svg_hy1562324394499" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
